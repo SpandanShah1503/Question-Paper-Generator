@@ -37,7 +37,7 @@ Postman (API testing)
 ➡️PORT=7000
 
 💥Run the server
-➡️node app.js
+➡️node gemini.js
 
 💥Server will run at:
 ➡️http://localhost:7000
